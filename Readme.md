@@ -11,5 +11,3 @@
 ## Contatos
 
 - **Instagram**: [@mhenrique36](https://www.instagram.com/mhenrique36/)
-- **WhatsApp**: [Clique aqui](https://wa.me/5532987654321)
-- **Email**: [contato@petlife.com](mailto:contato@petlife.com)
